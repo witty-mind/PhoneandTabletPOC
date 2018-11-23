@@ -1,0 +1,13 @@
+
+Ysquid:UselessImportCheck"+Remove this unused import 'java.util.List'.(Υλ±Δψÿÿÿÿ8¨εύσ,
+Fsquid:S1659"%Declare "tvMenu4" on a separate line.(ΨƒΪψÿÿÿÿ8¨εύσ,
+‚squid:S2637"aParameter 2 to this call is marked "android.support.annotation.NonNull" but null could be passed.(¥ψ‰Ιψÿÿÿÿ8¨εύσ,
+Xsquid:UselessImportCheck"/Remove this unused import 'retrofit2.Response'.(Ύιηο8¨εύσ,
+Fsquid:S1659"%Declare "tvMenu3" on a separate line.(ΨƒΪψÿÿÿÿ8¨εύσ,
+Tsquid:UselessImportCheck"+Remove this unused import 'retrofit2.Call'.(Ηφχ›8¨εύσ,
+Fsquid:S1659"%Declare "tvMenu2" on a separate line.(ΨƒΪψÿÿÿÿ8¨εύσ,
+lsquid:S1301"KReplace this "switch" statement by "if" statements to increase readability.(ψε΄΅ÿÿÿÿÿ8¨εύσ,
+Dsquid:S1148"#Use a logger to log this exception.(€ΙΤ…ύÿÿÿÿ8¨εύσ,
+[squid:UselessImportCheck"-Remove this unused import 'android.util.Log'.(Τ¦Ψ²ψÿÿÿÿ8¨εύσ,
+Wsquid:UselessImportCheck"/Remove this unused import 'retrofit2.Callback'.(›¨,8¨εύσ,
+Z"squid:SwitchLastCaseIsDefaultCheck""Add a default case to this switch.(ψε΄΅ÿÿÿÿÿ8¨εύσ,
