@@ -36,6 +36,8 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
+
+        // Checking for the Tablet Layout
         if (findViewById(R.id.layout_tablet) != null) {
             Toast.makeText(this,
                     "Tablet Layout loaded",
@@ -124,7 +126,9 @@ public class MainActivity extends AppCompatActivity {
 
                 }
             });
-        } else if (findViewById(R.id.drawer_layout) != null) {
+        }
+        // Checking for the Phone Layout
+        else if (findViewById(R.id.drawer_layout) != null) {
             mDrawerLayout = findViewById(R.id.drawer_layout);
             drawerToggle = setupDrawerToggle();
             NavigationView navigationView = findViewById(R.id.nav_view);
